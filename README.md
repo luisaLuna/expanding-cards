@@ -1,2 +1,2 @@
 # expanding-cards
-These are cards that expand when you click on them. I used HTML, CSS &amp; JavaScript. 
+This is a series of expanding cards about my favorite animals. I used HTML, CSS & JavaScript to build this. 
